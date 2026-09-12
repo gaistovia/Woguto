@@ -109,7 +109,7 @@ var MOCK_DATA = {
     },
     {
       id:"bet-smart-tz", type:"campaign", category:"Betting",
-      image:"https://loremflickr.com/640/400/football,stadium/all?lock=26",
+      image:"https://images.unsplash.com/photo-1434648957308-5e6a859697e8?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title:"Bet Smart Challenge",
       brand:"WinZone Sports",
       shortDescription:"WinZone Sports inatafuta watu wa kusambaza promo za michezo ya kubahatisha kwa jamii zao — michezo ya soka na matukio ya wiki.",
@@ -125,7 +125,7 @@ var MOCK_DATA = {
     },
     {
       id:"nguo-afriwear", type:"campaign", category:"Retail",
-      image:"https://loremflickr.com/640/400/africanfashion,clothing/all?lock=30",
+      image:"https://plus.unsplash.com/premium_photo-1732464750981-2dfaa38f7d3a?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title:"Mtindo Wa Kiafrika",
       brand:"AfriWear",
       shortDescription:"AfriWear inazindua mkusanyiko mpya wa nguo za kisasa za Kiafrika na inatafuta watu wa kuusambaza kwa jamii zao.",
@@ -141,7 +141,7 @@ var MOCK_DATA = {
     },
     {
       id:"mikopo-quickcredit", type:"campaign", category:"Finance",
-      image:"https://loremflickr.com/640/400/mobilebanking,finance/all?lock=31",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0HSfNVs5qAeT7g8I3-nM83zpONek_qAxqmt3d_PZaqsQjMsQrzbJ4ugLr&s=10",
       title:"Mikopo Rahisi Mkononi",
       brand:"QuickCredit",
       shortDescription:"QuickCredit inatafuta watu wa kueleza jamii zao jinsi ya kupata mikopo midogo kwa haraka kupitia simu, kwa masharti wazi.",
@@ -157,7 +157,7 @@ var MOCK_DATA = {
     },
     {
       id:"vipodozi-nuruglow", type:"campaign", category:"Retail",
-      image:"https://loremflickr.com/640/400/cosmetics,skincare/all?lock=32",
+      image:"https://images.unsplash.com/photo-1523297736436-356615162cc8?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title:"Urembo Wa Asili",
       brand:"NuruGlow",
       shortDescription:"NuruGlow inazindua vipodozi vya asili vya ngozi na inatafuta watu wa kuvijaribu na kuvisambaza kwa jamii zao.",
@@ -254,7 +254,7 @@ var MOCK_DATA = {
     },
     {
       id:"fasta-fedha-finance", type:"campaign", category:"Finance",
-      image:"https://loremflickr.com/640/400/finance,money/all?lock=105",
+      image:"https://dailynews.co.tz/wp-content/uploads/2025/12/Mobile-Money-780x470.jpg",
       title:"FastaFedha Huduma Mpya za Fedha",
       brand:"FastaFedha",
       shortDescription:"FastaFedha inatafuta watu wa kusambaza huduma ya fedha kwa jamii zao kupitia mitandao ya kijamii na mazungumzo ya kawaida.",
@@ -334,7 +334,7 @@ var MOCK_DATA = {
     },
     {
       id:"jua-solar-nishati", type:"campaign", category:"Nishati",
-      image:"https://loremflickr.com/640/400/energy,solar/all?lock=110",
+      image:"https://i.ebayimg.com/images/g/ougAAeSwS5JoumMs/s-l1600.webp",
       title:"JuaSolar Nishati Safi",
       brand:"JuaSolar",
       shortDescription:"JuaSolar inatafuta watu wa kusambaza huduma ya nishati kwa jamii zao kupitia mitandao ya kijamii na mazungumzo ya kawaida.",
@@ -366,7 +366,7 @@ var MOCK_DATA = {
     },
     {
       id:"tele-build-nyumba", type:"campaign", category:"Nyumba",
-      image:"https://loremflickr.com/640/400/house,home/all?lock=112",
+      image:"https://i.ebayimg.com/images/g/3mQAAOSwY4ZoNxhG/s-l1600.webp",
       title:"TeleBuild Nyumba za Bei Nafuu",
       brand:"TeleBuild",
       shortDescription:"TeleBuild inatafuta watu wa kusambaza ofa ya nyumba kwa jamii zao kupitia mitandao ya kijamii na mazungumzo ya kawaida.",
@@ -382,11 +382,11 @@ var MOCK_DATA = {
     },
     {
       id:"msafiri-rides-magari", type:"campaign", category:"Magari",
-      image:"https://loremflickr.com/640/400/car,vehicle/all?lock=113",
-      title:"MsafiriRides Inazindua Gari Jipya",
+      image:"https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/body-image/public/7_tonaleconcept9-5ffc3f98a2cdc.jpg?itok=QDIVasvY",
+      title:"The Rides Inazindua Gari Jipya",
       brand:"MsafiriRides",
-      shortDescription:"MsafiriRides inatafuta watu wa kusambaza gari jipya kwa jamii zao kupitia mitandao ya kijamii na mazungumzo ya kawaida.",
-      fullDescription:"MsafiriRides inaendesha campaign ya kutafuta watu wa kawaida watakaosaidia kusambaza gari jipya kwa maeneo yao. Hauitaji followers wengi — unachohitajika ni kushiriki kwa uaminifu na jamii inayokuzunguka. Reward inategemea masharti ya campaign hii.",
+      shortDescription:"The Rides inatafuta watu wa kusambaza gari jipya kwa jamii zao kupitia mitandao ya kijamii na mazungumzo ya kawaida.",
+      fullDescription:"The Rides inaendesha campaign ya kutafuta watu wa kawaida watakaosaidia kusambaza gari jipya kwa maeneo yao. Hauitaji followers wengi — unachohitajika ni kushiriki kwa uaminifu na jamii inayokuzunguka. Reward inategemea masharti ya campaign hii.",
       participants:1372, deadline:"25 Nov 2026", reward:"Reward kulingana na ushiriki wako", followersRequired:"Hakuna",
       priceLabel:"Hadi TZS 53,000",
       lockedDetails:[
