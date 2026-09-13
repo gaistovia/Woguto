@@ -348,6 +348,51 @@
   <div class="modal-box" id="share-modal-box"></div>
 </div>
 
+<!-- FLOATING WHATSAPP ICON -->
+<style>
+  .whatsapp-float {
+    position: fixed;
+    bottom: 24px;
+    right: 20px;
+    z-index: 9999;
+    width: 58px;
+    height: 58px;
+    background-color: #25D366;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.25);
+    text-decoration: none;
+    animation: wa-pulse 2.2s infinite;
+  }
+  .whatsapp-float svg {
+    width: 30px;
+    height: 30px;
+    fill: #ffffff;
+  }
+  @keyframes wa-pulse {
+    0% { box-shadow: 0 0 0 0 rgba(37,211,102,0.55), 0 4px 14px rgba(0,0,0,0.25); }
+    70% { box-shadow: 0 0 0 14px rgba(37,211,102,0), 0 4px 14px rgba(0,0,0,0.25); }
+    100% { box-shadow: 0 0 0 0 rgba(37,211,102,0), 0 4px 14px rgba(0,0,0,0.25); }
+  }
+  @media (max-width: 480px) {
+    .whatsapp-float {
+      bottom: 90px;
+      right: 16px;
+      width: 52px;
+      height: 52px;
+    }
+    .whatsapp-float svg {
+      width: 26px;
+      height: 26px;
+    }
+  }
+</style>
+<a href="https://wa.me/255797807309?text=Habari%2C%20Nina%20swali%20kuhusiana%20na%20woguto.%20Naomba%20unielekeze" class="whatsapp-float" onclick="trackCTA('floating_whatsapp')" aria-label="Wasiliana nasi WhatsApp" target="_blank" rel="noopener">
+  <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M16.001 3C9.373 3 4 8.373 4 15c0 2.31.638 4.474 1.746 6.324L4 29l7.86-1.712A11.93 11.93 0 0 0 16.001 27C22.63 27 28 21.627 28 15S22.63 3 16.001 3zm6.92 16.88c-.29.815-1.44 1.5-2.36 1.69-.626.13-1.443.234-4.2-.9-3.53-1.46-5.8-5.03-5.977-5.263-.176-.234-1.42-1.887-1.42-3.6s.895-2.557 1.212-2.908c.317-.352.69-.44.92-.44.23 0 .46.002.66.012.213.01.5-.08.78.596.29.7.984 2.414 1.07 2.59.088.176.147.383.03.617-.117.234-.176.383-.35.588-.176.205-.368.457-.526.615-.176.176-.36.367-.155.72.206.352.914 1.51 1.963 2.446 1.35 1.204 2.49 1.577 2.84 1.753.352.176.556.147.76-.088.206-.234.878-1.024 1.113-1.375.235-.352.47-.293.79-.176.32.117 2.03.958 2.378 1.132.35.176.583.264.67.41.088.146.088.85-.203 1.665z"/></svg>
+</a>
+
 <script src="script.js"></script>
 </body>
 </html>
